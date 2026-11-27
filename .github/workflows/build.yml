@@ -24,6 +24,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add catalog.json
+          git add icons 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "Update catalog" && git push)
   build:
     if: github.event_name != 'schedule'
