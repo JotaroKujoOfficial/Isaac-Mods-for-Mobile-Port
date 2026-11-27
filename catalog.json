@@ -1,6 +1,6 @@
 {
  "schema": 3,
- "updated": "2026-11-27T11:30:01.993687Z",
+ "updated": "2026-11-27T12:25:37.240416Z",
  "mods": [
   {
    "id": 1131059976,
@@ -1354,24 +1354,6 @@
    ]
   },
   {
-   "id": 785508216,
-   "popularity": 1,
-   "updated": 1713329723,
-   "name": "isaac_winston_mod",
-   "author": "machasins",
-   "description": "This mod simply plays a Winston voiceline, \"Hi There\", whenever the trinket Monkey Paw appears. Does not include Winston resprite, go here for that. Issues? Report it here or in the comments of this mod. Can be configured with Mod Config Menu to adjust when the sound plays and how loud it is. Now includes an optional 'Greetings' voiceline that can be enabled. Thanks to Lazy Mattman for inspiration and shart for the inital mod. I used Emote Binds for the creation of the demo videos. This is truly a Mattman moment.",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/machasins/isaac_winston_mod",
-   "versions": [
-    {
-     "version": "2024-04-17",
-     "url": "https://github.com/machasins/isaac_winston_mod/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 1212792652,
    "popularity": 1,
    "updated": 1780234203,
@@ -1390,6 +1372,24 @@
     {
      "version": "1.0",
      "url": "https://github.com/CoolFish456/isaac-lwater-mod/releases/download/1.0/l_water.zip"
+    }
+   ]
+  },
+  {
+   "id": 785508216,
+   "popularity": 1,
+   "updated": 1713329723,
+   "name": "isaac_winston_mod",
+   "author": "machasins",
+   "description": "This mod simply plays a Winston voiceline, \"Hi There\", whenever the trinket Monkey Paw appears. Does not include Winston resprite, go here for that. Issues? Report it here or in the comments of this mod. Can be configured with Mod Config Menu to adjust when the sound plays and how loud it is. Now includes an optional 'Greetings' voiceline that can be enabled. Thanks to Lazy Mattman for inspiration and shart for the inital mod. I used Emote Binds for the creation of the demo videos. This is truly a Mattman moment.",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/machasins/isaac_winston_mod",
+   "versions": [
+    {
+     "version": "2024-04-17",
+     "url": "https://github.com/machasins/isaac_winston_mod/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -2659,24 +2659,6 @@
    ]
   },
   {
-   "id": 101352734,
-   "popularity": 0,
-   "updated": 1504297789,
-   "name": "Bestiary",
-   "author": "euphemism",
-   "description": "The Binding of Isaac: Bestiary Mod",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/euphemism/Bestiary",
-   "versions": [
-    {
-     "version": "2017-09-01",
-     "url": "https://github.com/euphemism/Bestiary/archive/refs/heads/master.zip"
-    }
-   ]
-  },
-  {
    "id": 115733549,
    "popularity": 0,
    "updated": 1514561975,
@@ -2691,6 +2673,24 @@
     {
      "version": "2017-12-29",
      "url": "https://github.com/tamirco2003/Tetrachromacy/archive/refs/heads/master.zip"
+    }
+   ]
+  },
+  {
+   "id": 101352734,
+   "popularity": 0,
+   "updated": 1504297789,
+   "name": "Bestiary",
+   "author": "euphemism",
+   "description": "The Binding of Isaac: Bestiary Mod",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/euphemism/Bestiary",
+   "versions": [
+    {
+     "version": "2017-09-01",
+     "url": "https://github.com/euphemism/Bestiary/archive/refs/heads/master.zip"
     }
    ]
   },
@@ -3431,24 +3431,6 @@
    ]
   },
   {
-   "id": 575935868,
-   "popularity": 0,
-   "updated": 1676142732,
-   "name": "MadokaTBOI",
-   "author": "Dangan2020",
-   "description": "[January 9th - Notes: FINALLY fixed the mod. I dunno what came over me to just give it up but it should be functional again now. I still need some ideas to make the character more unique, any ideas are welcome to send in the suggestion thread!] Never seen anyone else doing a Madoka Magica mod (aside from the soundtrack mod by PixelDemise, only has up to AB+, no repentance music) so I thought I'd try to make one. This is my first time ever making mods for TBOI, any feedback is welcome. (I might make this open source for everyone's contribution) Madoka's stats: 2 Red Hearts 0.80 Speed 3.00 Tears 2.00 Damage 6.60 Range 1.00 Shot Speed 1 Luck Starts with Cupid's Arrow, Epiphora (temporary starting items, might change them in a future update) & Hierophant Tarot Card. Tainted Madoka's stats (might revamp the look to have a more edgier/darker look in a future update): 4 Hearts 1.00 Speed 2.31 T",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Dangan2020/MadokaTBOI",
-   "versions": [
-    {
-     "version": "2023-02-11",
-     "url": "https://github.com/Dangan2020/MadokaTBOI/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 930020917,
    "popularity": 0,
    "updated": 1739655505,
@@ -3463,6 +3445,24 @@
     {
      "version": "2025-02-15",
      "url": "https://github.com/SomeoneWithACactus/ReachForTheStars-Isaac-Mod-/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 575935868,
+   "popularity": 0,
+   "updated": 1676142732,
+   "name": "MadokaTBOI",
+   "author": "Dangan2020",
+   "description": "[January 9th - Notes: FINALLY fixed the mod. I dunno what came over me to just give it up but it should be functional again now. I still need some ideas to make the character more unique, any ideas are welcome to send in the suggestion thread!] Never seen anyone else doing a Madoka Magica mod (aside from the soundtrack mod by PixelDemise, only has up to AB+, no repentance music) so I thought I'd try to make one. This is my first time ever making mods for TBOI, any feedback is welcome. (I might make this open source for everyone's contribution) Madoka's stats: 2 Red Hearts 0.80 Speed 3.00 Tears 2.00 Damage 6.60 Range 1.00 Shot Speed 1 Luck Starts with Cupid's Arrow, Epiphora (temporary starting items, might change them in a future update) & Hierophant Tarot Card. Tainted Madoka's stats (might revamp the look to have a more edgier/darker look in a future update): 4 Hearts 1.00 Speed 2.31 T",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Dangan2020/MadokaTBOI",
+   "versions": [
+    {
+     "version": "2023-02-11",
+     "url": "https://github.com/Dangan2020/MadokaTBOI/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -3485,24 +3485,6 @@
    ]
   },
   {
-   "id": 386939117,
-   "popularity": 0,
-   "updated": 1626527100,
-   "name": "red-key-run",
-   "author": "Anubioz",
-   "description": "The Binding of Isaac Repentance - Mod Request for unspunreality",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Anubioz/red-key-run",
-   "versions": [
-    {
-     "version": "2021-07-17",
-     "url": "https://github.com/Anubioz/red-key-run/archive/refs/heads/master.zip"
-    }
-   ]
-  },
-  {
    "id": 1301617892,
    "popularity": 0,
    "updated": 1784240758,
@@ -3517,6 +3499,24 @@
     {
      "version": "0.1",
      "url": "https://github.com/Overvault-64/TBOI-Highlight-Player/releases/download/0.1/highlight-player.zip"
+    }
+   ]
+  },
+  {
+   "id": 386939117,
+   "popularity": 0,
+   "updated": 1626527100,
+   "name": "red-key-run",
+   "author": "Anubioz",
+   "description": "The Binding of Isaac Repentance - Mod Request for unspunreality",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Anubioz/red-key-run",
+   "versions": [
+    {
+     "version": "2021-07-17",
+     "url": "https://github.com/Anubioz/red-key-run/archive/refs/heads/master.zip"
     }
    ]
   },
@@ -3883,24 +3883,6 @@
    ]
   },
   {
-   "id": 370405019,
-   "popularity": 0,
-   "updated": 1663096769,
-   "name": "isaac-overcome-curses",
-   "author": "TheGor1lla",
-   "description": "[h1] Overcome Curses [/h1] Simple mod that deactives curses (minus Labyrinth, because you know...) once the floor boss is killed. [h2] Now configurable! [/h2] Overcome Curses now supports !! Mod Config Menu Pure If you are a fan of using the debug menu, you can also configure the mod that way, simply check it out by typing: overcome help [h2] If you have Feedback or feature requests, feel free to contact me! [/h2]",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/TheGor1lla/isaac-overcome-curses",
-   "versions": [
-    {
-     "version": "2022-09-13",
-     "url": "https://github.com/TheGor1lla/isaac-overcome-curses/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 742601965,
    "popularity": 0,
    "updated": 1708103801,
@@ -3915,6 +3897,24 @@
     {
      "version": "2024-02-16",
      "url": "https://github.com/ybbat/noMoreDailies/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 370405019,
+   "popularity": 0,
+   "updated": 1663096769,
+   "name": "isaac-overcome-curses",
+   "author": "TheGor1lla",
+   "description": "[h1] Overcome Curses [/h1] Simple mod that deactives curses (minus Labyrinth, because you know...) once the floor boss is killed. [h2] Now configurable! [/h2] Overcome Curses now supports !! Mod Config Menu Pure If you are a fan of using the debug menu, you can also configure the mod that way, simply check it out by typing: overcome help [h2] If you have Feedback or feature requests, feel free to contact me! [/h2]",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/TheGor1lla/isaac-overcome-curses",
+   "versions": [
+    {
+     "version": "2022-09-13",
+     "url": "https://github.com/TheGor1lla/isaac-overcome-curses/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -4263,6 +4263,24 @@
    ]
   },
   {
+   "id": 1045579669,
+   "popularity": 0,
+   "updated": 1756306202,
+   "name": "The-binding-of-isaac-mod-template-creator",
+   "author": "ThatOneDice",
+   "description": "A the binding of isaac template creator, pretty much minimal",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/ThatOneDice/The-binding-of-isaac-mod-template-creator",
+   "versions": [
+    {
+     "version": "2025-08-27",
+     "url": "https://github.com/ThatOneDice/The-binding-of-isaac-mod-template-creator/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
    "id": 780336052,
    "popularity": 0,
    "updated": 1712397705,
@@ -4283,24 +4301,6 @@
     {
      "version": "2024-04-06",
      "url": "https://github.com/D00NIK/Starterr/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
-   "id": 1045579669,
-   "popularity": 0,
-   "updated": 1756306202,
-   "name": "The-binding-of-isaac-mod-template-creator",
-   "author": "ThatOneDice",
-   "description": "A the binding of isaac template creator, pretty much minimal",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/ThatOneDice/The-binding-of-isaac-mod-template-creator",
-   "versions": [
-    {
-     "version": "2025-08-27",
-     "url": "https://github.com/ThatOneDice/The-binding-of-isaac-mod-template-creator/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -4837,7 +4837,7 @@
   {
    "id": 1404104784,
    "popularity": 0,
-   "updated": 1795707363,
+   "updated": 1795778856,
    "name": "GoodTripPlus",
    "author": "Jamlet-T",
    "description": "[h1]GoodTripPlus[/h1] 将 GoodTrip 融合进右上角的 MiniMAPI 小地图！ 直接在小地图上选择房间并传送，在保留 GoodTrip 经典功能的同时，加入更多地图信息显示、实用功能与 Bug 修复。 [h2]主要功能[/h2] 在 MiniMAPI 小地图上直接选择并传送至房间 支持传送至未探索房间 标记 Depths II 的 Tinted Skull 标记 Mines II 的 Yellow Rail Button 支持为传送设置时间惩罚 [h2]传送设置[/h2] 默认使用相邻房间模式；也可选择仅传送至已探索房间 任意房间模式允许任意时刻传送至地图上任何可选房间，极大破坏游戏平衡，请谨慎启用。此模式绕过战斗、解锁和连通等限制，不消耗钥匙、金币或刺门生命费用，也不补时间 计时补偿与准入独立：有可步行路线时按距离与移速补时间，无路线则不补时间，不会因此阻止传送 配置说明随所选传送模式实时切换 [h2]默认配置与菜单[/h2] 隐藏房候选标记、候选门框及迷失诅咒下候选门框默认关闭；需要时请在“房间标记”中开启 候选门框不透明度默认 50%；相邻房门自动消耗钥匙／金币开门传送默认开启 初始房间高亮出厂默认开启；已有 MCM／MiniMAPI 保存设置保持不变 配置菜单按功能分组，“禁止传送”集中放置诅咒房及两类奖励门开关 [h2]MiniMAPI 兼容[/h2] 兼容 MiniMAPI 的地图显示功能，包括： 战斗时隐藏地图 高亮初始房间 高亮最远房间 显示各房间到当前房间的距离 [h2]新增功能[/h2] 集成 Lazy Delver 的隐藏房候选位置标记 在房间中显示隐藏房候选门框，支持狗牙线索，以及化石寄居骷髅／等等，啥？／肆意践踏／肥圆虫／背摔／敌手／大乞丐宝／287.0.0／鸟肥笼／The Cage／Chimera／棕色 Mega Fatty／The Pile／Wait What? 魂火的岩波判定；妈咪炸弹和超级豆子也可排除假候选 候选星号和门框随探索、藏宝图／世界牌及公开的房间图标更新；门框可在 Mod Config Menu ",
@@ -4847,7 +4847,7 @@
    "source": "github.com/Jamlet-T/GoodTripPlus",
    "versions": [
     {
-     "version": "2026-11-26",
+     "version": "2026-11-27",
      "url": "https://github.com/Jamlet-T/GoodTripPlus/archive/refs/heads/main.zip"
     }
    ]
