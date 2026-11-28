@@ -53,9 +53,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           APK=$(find . -name "app-debug.apk" | head -1)
-          cp "$APK" IsaacMods.apk
-          gh release create "v${{ github.run_number }}" IsaacMods.apk \
+          cp "$APK" The-Binding-of-Isaac-Repentance-Mods.apk
+          gh release create "v${{ github.run_number }}" The-Binding-of-Isaac-Repentance-Mods.apk \
             --repo "${{ github.repository }}" \
             --target "${{ github.sha }}" \
-            --title "Моды Isaac v${{ github.run_number }}" \
+            --title "The Binding of Isaac Repentance Mods v${{ github.run_number }}" \
             --notes "APK-файл для установки на Android"
