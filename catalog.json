@@ -1,6 +1,6 @@
 {
  "schema": 3,
- "updated": "2026-11-28T10:42:42.833776Z",
+ "updated": "2026-11-28T11:40:51.321948Z",
  "mods": [
   {
    "id": 1131059976,
@@ -2471,24 +2471,6 @@
    ]
   },
   {
-   "id": 134026982,
-   "popularity": 0,
-   "updated": 1526734719,
-   "name": "BoI_IcyHot",
-   "author": "adnips",
-   "description": "Some coding practice to figure out how this stuff works and get used to it, as suggested by /u/Kopekemaster (https://www.reddit.com/r/bindingofisaac/comments/8ka7ec/trinket_idea_icy_hot/) Adds a Trinket to the game called the Icy Hot Flame. While held there is a chance of several instances of standard Flames being replaced by Blue Flames. This includes the following: standard Fireplaces in every new room entered may spawn as Blue Fireplaces instead, Flames spawned via Hot Bombs, Ghost Pepper or the Red Candle items may instead spawn as Blue Flames with differing effects Hot Bomb Blue Flames last slightly longer before fading. Ghost Pepper and Red Candle Blue Flames have more points of durability than normal.",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/adnips/BoI_IcyHot",
-   "versions": [
-    {
-     "version": "2018-05-19",
-     "url": "https://github.com/adnips/BoI_IcyHot/archive/refs/heads/master.zip"
-    }
-   ]
-  },
-  {
    "id": 94871286,
    "popularity": 0,
    "updated": 1498015923,
@@ -2503,6 +2485,24 @@
     {
      "version": "2017-06-21",
      "url": "https://github.com/MicroTransactionsMatterToo/The-Almanac/archive/refs/heads/master.zip"
+    }
+   ]
+  },
+  {
+   "id": 134026982,
+   "popularity": 0,
+   "updated": 1526734719,
+   "name": "BoI_IcyHot",
+   "author": "adnips",
+   "description": "Some coding practice to figure out how this stuff works and get used to it, as suggested by /u/Kopekemaster (https://www.reddit.com/r/bindingofisaac/comments/8ka7ec/trinket_idea_icy_hot/) Adds a Trinket to the game called the Icy Hot Flame. While held there is a chance of several instances of standard Flames being replaced by Blue Flames. This includes the following: standard Fireplaces in every new room entered may spawn as Blue Fireplaces instead, Flames spawned via Hot Bombs, Ghost Pepper or the Red Candle items may instead spawn as Blue Flames with differing effects Hot Bomb Blue Flames last slightly longer before fading. Ghost Pepper and Red Candle Blue Flames have more points of durability than normal.",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/adnips/BoI_IcyHot",
+   "versions": [
+    {
+     "version": "2018-05-19",
+     "url": "https://github.com/adnips/BoI_IcyHot/archive/refs/heads/master.zip"
     }
    ]
   },
@@ -3521,24 +3521,6 @@
    ]
   },
   {
-   "id": 1392849000,
-   "popularity": 0,
-   "updated": 1792963137,
-   "name": "green-lantern-isaac-mod",
-   "author": "danicaju",
-   "description": "In brightest day, in blackest night... Hal Jordan, the Green Lantern of Sector 2814, enters the Binding of Isaac! Includes Hal Jordan, Tainted Hal (Parallax), 6 new items, and 1 new trinket.",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/danicaju/green-lantern-isaac-mod",
-   "versions": [
-    {
-     "version": "2026-10-25",
-     "url": "https://github.com/danicaju/green-lantern-isaac-mod/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 271289079,
    "popularity": 0,
    "updated": 1608422130,
@@ -3589,6 +3571,24 @@
     {
      "version": "2026-09-16",
      "url": "https://github.com/EllieDoesStuff/classy-bosses/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 1392849000,
+   "popularity": 0,
+   "updated": 1792963137,
+   "name": "green-lantern-isaac-mod",
+   "author": "danicaju",
+   "description": "In brightest day, in blackest night... Hal Jordan, the Green Lantern of Sector 2814, enters the Binding of Isaac! Includes Hal Jordan, Tainted Hal (Parallax), 6 new items, and 1 new trinket.",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/danicaju/green-lantern-isaac-mod",
+   "versions": [
+    {
+     "version": "2026-10-25",
+     "url": "https://github.com/danicaju/green-lantern-isaac-mod/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -4895,7 +4895,7 @@
    "name": "TBoI-ES-Modification",
    "author": "BlazeStudio",
    "description": "https://i.imgur.com/JqtpX1i.png [h1]ENG[/h1] [h1]Everlasting Summer: The Binding of Isaac Mod![/h1] Mod created based on the game Everlasting Summer [h2]This mod adds:[/h2] 9 Characters 20+ Items Music and Sound Effects 4 Cards Transformations Custom Loading Screens External Item Descriptions Compatibility [h2]Starting Items[/h2] Name Items Alisa Electric Guitar Everlasting Vodka +1 Card Lena Gone With The Wind Knife +1 Card Ulyana Stolen Candy +1 Card Semyon 410 Bus Miku Classic Guitar Sintezator Elektronik Robot Head (Upgrade System) Slavya Dinning Room Key Shurik Fittings Psycho Mode Yulya Sugar +1 Card [h2]Items[/h2] Electric Guitar = + 1.5 Damage Alisa Bomb = Gives 10 Bombs Everlasting Vodka = Adds Confusion to enemies for 5 seconds Robot Head = LVL1 - Shoots 4 lasers. LVL2(Chip) - Shoots 8 lasers. LVL3(Upgraded Chip) - Shoots 16 lasers Chip = + 0.10 to TearFallingSpeed. Upgrade Rob",
-   "icon": null,
+   "icon": "https://i.imgur.com/JqtpX1i.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/BlazeStudio/TBoI-ES-Modification",
@@ -5025,7 +5025,7 @@
    "name": "secret_room_assistant",
    "author": "Greensie",
    "description": "A smart minimap assistant for finding Secret Rooms without simply revealing them. Secret Room Assistant highlights likely Secret Room candidates, remembers failed bomb checks, and rules out impossible entrances, so you can spend fewer bombs on guesswork and more time actually playing the run. [h1]Secret Room Assistant[/h1] Tired of wasting bombs on walls that were never going to open? Secret Room Assistant adds visual hints to your minimap, helping you identify likely Secret Room locations using only information that is already available to the player. It does not reveal hidden floor data or simply give you the answer - it acts more like a smart notebook that tracks room layout, valid candidates, blocked entrances, and failed bomb checks for you. [h2]What it does[/h2] The mod analyzes the visible map layout and marks possible Secret Room positions directly on the minimap: ! - strong cand",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/Greensie/secret_room_assistant/main/preview.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/Greensie/secret_room_assistant",
@@ -5043,7 +5043,7 @@
    "name": "spindown-helper-ingame",
    "author": "davidemodolo",
    "description": "spindown-helper-ingame is a currently a work in progress.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/davidemodolo/spindown-helper-ingame/main/in-game_screenshots/window_open.jpg",
    "tags": [
     "isaacscript",
     "the-binding-of-isaac-rebirth",
