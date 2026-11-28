@@ -1,6 +1,6 @@
 {
  "schema": 3,
- "updated": "2026-11-27T12:25:37.240416Z",
+ "updated": "2026-11-28T10:42:42.833776Z",
  "mods": [
   {
    "id": 1131059976,
@@ -70,34 +70,6 @@
    ]
   },
   {
-   "id": 1428144012,
-   "popularity": 0,
-   "updated": 1792591965,
-   "name": "tlost-double-hc",
-   "author": "andret2344",
-   "description": "[h1]Double Holy Cards for Tainted Lost[/h1] Tainted Lost dies to a single hit, and the Holy Card is the one thing that buys a second chance. In vanilla, every card that spawns has a 10% chance to turn into a Holy Card. This mod raises it to 20% : noticeable over a run, while the character keeps its edge. [h2]What changes[/h2] Random cards from room rewards, chests and other drops Cards in shops (they stay paid) Cards rolled by items such as Deck of Cards or Booster Pack [h2]What stays the same[/h2] Cards you drop from your inventory come back as they were Scripted cards, such as The Fool on Depths II Runes, soul stones and objects like Dice Shard keep vanilla's 10% Every other character: the mod only acts when a Tainted Lost is in the game, co-op included No unlock needed, same as vanilla [h2]Tested[/h2] Measured in game: 39 Holy Cards out of 203 random card spawns (19.2%), in line with ",
-   "icon": null,
-   "tags": [
-    "binding-of-isaac",
-    "game-mod",
-    "holy-card",
-    "isaac-mod",
-    "lua",
-    "modding",
-    "repentance-plus",
-    "tainted-lost",
-    "tboi"
-   ],
-   "officialLatest": "0.1.0",
-   "source": "github.com/andret2344/tlost-double-hc",
-   "versions": [
-    {
-     "version": "0.1.0",
-     "url": "https://github.com/andret2344/tlost-double-hc/releases/download/v0.1.0/tlost-double-hc-0.1.0.zip"
-    }
-   ]
-  },
-  {
    "id": 420253998,
    "popularity": 0,
    "updated": 1643232661,
@@ -152,7 +124,7 @@
    "name": "fruit-ninja-item-pack-TBOI-MOD",
    "author": "xandjiji",
    "description": "(please don't lecture me wheter these are fruits or vegetables lol) BANANA (active single use item): -While held, all enemy flies become familiar blue flies (Lord of the Flies effect) -If you choose to eat the banana you get +1 eternal heart CUCUMBER (passive item): -Keep it somewhere and you get a strong +0.5 speed up WATERMELON (passive item): -You fire tears as if you were spitting seeds! + penetrative shots AND +0.9 shot speed up CHERRY (active single use item): -Spawn a Slot Machine AND Blood Donation Machine combo + lucky penny! SPINACH (passive item): -Grow big and strong as popeye! +1.0 damage up AND destroy objects on contact GRANDMA's MULTIVITAMINICS (pill): -Swallow to get a random color everytime! And yes, they have costumes and visual effects :-) TRANSFORMATION If you pick up at least 3 fruits, you'll become Ninja Fruit Mastahh! +1.25 damage multiplier +0.3 shotspeed +0.25 r",
-   "icon": null,
+   "icon": "https://i.imgur.com/iqhKQiz.png",
    "tags": [
     "binding-of-isaac",
     "isaac",
@@ -251,7 +223,7 @@
    "name": "risacca-mod",
    "author": "xdelmo",
    "description": "Una mod dedicata a Risacca (youtube.com/@Risaacca), una run di Repentance al giorno. IL GODOR!, \"È XL?\", C'ho l'ansia, Beppe Bossicchio, Chiaviz-Chiavoz e sedici oggetti nuovi, tra cui Ho Rotto il Gioco, Win Streak, -1 al Dead God, La Mossa del Pro Player e la trasformazione Tacchino. Prima di disattivare o disinstallare la mod, finisci o abbandona la run in corso. Usi la mod a tuo rischio: l'autore non si assume alcuna responsabilità per errori, salvataggi persi o danneggiati o altri danni. Mod creata da xdelmo: github.com/xdelmo/risacca-mod",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/xdelmo/risacca-mod/main/docs/preview.png",
    "tags": [
     "binding-of-isaac",
     "isaac-mod",
@@ -335,25 +307,30 @@
    ]
   },
   {
-   "id": 128579234,
+   "id": 1428144012,
    "popularity": 0,
-   "updated": 1523149984,
-   "name": "suppository",
-   "author": "jufracaqui",
-   "description": "Trinket that when getting to a new floor, if the player is cursed, gets used and clears all the curses.",
+   "updated": 1792591965,
+   "name": "tlost-double-hc",
+   "author": "andret2344",
+   "description": "[h1]Double Holy Cards for Tainted Lost[/h1] Tainted Lost dies to a single hit, and the Holy Card is the one thing that buys a second chance. In vanilla, every card that spawns has a 10% chance to turn into a Holy Card. This mod raises it to 20% : noticeable over a run, while the character keeps its edge. [h2]What changes[/h2] Random cards from room rewards, chests and other drops Cards in shops (they stay paid) Cards rolled by items such as Deck of Cards or Booster Pack [h2]What stays the same[/h2] Cards you drop from your inventory come back as they were Scripted cards, such as The Fool on Depths II Runes, soul stones and objects like Dice Shard keep vanilla's 10% Every other character: the mod only acts when a Tainted Lost is in the game, co-op included No unlock needed, same as vanilla [h2]Tested[/h2] Measured in game: 39 Holy Cards out of 203 random card spawns (19.2%), in line with ",
    "icon": null,
    "tags": [
     "binding-of-isaac",
+    "game-mod",
+    "holy-card",
+    "isaac-mod",
     "lua",
-    "mod",
-    "trinket"
+    "modding",
+    "repentance-plus",
+    "tainted-lost",
+    "tboi"
    ],
-   "officialLatest": null,
-   "source": "github.com/jufracaqui/suppository",
+   "officialLatest": "0.1.0",
+   "source": "github.com/andret2344/tlost-double-hc",
    "versions": [
     {
-     "version": "2018-04-08",
-     "url": "https://github.com/jufracaqui/suppository/archive/refs/heads/master.zip"
+     "version": "0.1.0",
+     "url": "https://github.com/andret2344/tlost-double-hc/releases/download/v0.1.0/tlost-double-hc-0.1.0.zip"
     }
    ]
   },
@@ -377,6 +354,29 @@
     {
      "version": "2026-10-19",
      "url": "https://github.com/blackhellvelz-prog/isaac-talents-for-everyone/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 128579234,
+   "popularity": 0,
+   "updated": 1523149984,
+   "name": "suppository",
+   "author": "jufracaqui",
+   "description": "Trinket that when getting to a new floor, if the player is cursed, gets used and clears all the curses.",
+   "icon": "https://github.com/jufracaqui/suppository/blob/master/resources/gfx/items/Trinkets/suppository.png?raw=true",
+   "tags": [
+    "binding-of-isaac",
+    "lua",
+    "mod",
+    "trinket"
+   ],
+   "officialLatest": null,
+   "source": "github.com/jufracaqui/suppository",
+   "versions": [
+    {
+     "version": "2018-04-08",
+     "url": "https://github.com/jufracaqui/suppository/archive/refs/heads/master.zip"
     }
    ]
   },
@@ -581,7 +581,7 @@
    "name": "twisaac",
    "author": "shockpast",
    "description": "🔗 Twitch Chat, but inside of Isaac, isn't it awesome?",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/shockpast/twisaac/main/assets/gZBAXr.png",
    "tags": [
     "isaac",
     "isaac-mod",
@@ -630,7 +630,7 @@
    "name": "isaac-run-history",
    "author": "tomandesMSH",
    "description": "[h1]Isaac Run History[/h1] Records every run you play - wins, deaths and restarts - with the items you picked up floor by floor, bosses, the cause of death, final stats and the seed. Drop the history file on tomandes.eu/isaac-run-history and get statistics: win rate per character, the items that win you runs, what keeps killing you, bosses, completion marks and more. [h2]How to use[/h2] Open the console and click Run History in the menu bar, or use: runhistory (or rh ) - list your last 10 runs rh export - copy the whole history (JSON) to the clipboard rh path - where the history file is rh web - the statistics page's link rh notif 0 / rh notif 1 - turn the popups at the start of a run off / on [h2]Requirements[/h2] Repentance+ required https://raw.githubusercontent.com/tomandesMSH/ShareSeed/main/repentogon.gif required Works together with ShareSeed (its share code is stored with each run",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/tomandesMSH/isaac-run-history/main/docs/screenshots/web-statistics.jpg",
    "tags": [
     "repentogon",
     "statistics",
@@ -742,7 +742,7 @@
    "name": "Isaac-Regret-Pedestals",
    "author": "seanstertm",
    "description": "A git repo for my isaac mod",
-   "icon": null,
+   "icon": "https://github.com/seanstertm/Isaac-Regret-Pedestals/blob/main/regret.gif",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/seanstertm/Isaac-Regret-Pedestals",
@@ -836,7 +836,7 @@
    "name": "Binding-of-Isaac-VR",
    "author": "techslogi",
    "description": "Streams all room entities with sprite info (anm2 + animation + frame) over UDP for the VR diorama app. Requires --luadebug.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/techslogi/Binding-of-Isaac-VR/refs/heads/main/docs/1.gif",
    "tags": [],
    "officialLatest": "0.9.0-beta",
    "source": "github.com/techslogi/Binding-of-Isaac-VR",
@@ -894,7 +894,7 @@
    "name": "BOI-Mod-Gravity-Gun",
    "author": "DanAmador",
    "description": "A new weapon for Binding of Isaac! Straight from Eli Vance's laboratory the Zero Point Energy Field Manipulator (ZPEFM), or commonly known as the Gravity Gun, offers a new edge in modern warfare, go get your own at a Devil Store near you!",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/DanAmador/BOI-Mod-Gravity-Gun/master/demo/giphy2.gif",
    "tags": [
     "games",
     "geometry",
@@ -1035,7 +1035,7 @@
    "name": "isaac-qualityonsprites-mod",
    "author": "boildead",
    "description": null,
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/boildead/isaac-qualityonsprites-mod/main/image.jpg",
    "tags": [],
    "officialLatest": "0.0.3",
    "source": "github.com/boildead/isaac-qualityonsprites-mod",
@@ -1160,7 +1160,7 @@
    "name": "The_Stars_Align",
    "author": "LucaDLC",
    "description": "[h1] How it works: [/h1] When entering a new floor during a game, you will get the message \"The stars align...\" if a planetarium spawned in the floor This mod not working in mod that add Planetarium in Greed Mode, the mod Planetariums in Greed Mode has already include this function",
-   "icon": null,
+   "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/LucaDLC/The_Stars_Align",
@@ -1342,7 +1342,7 @@
    "name": "isaac-reminders",
    "author": "AMAIOLAMO",
    "description": "Do you have gold fish memory like I do? Have you always went to the wrong alternative floor and hated yourself for it? Have you got the polaroid but went down to sheol instead? (or vice versa) FEAR NOT. Too many reminders will overflow you with REMINDERS! REQUIRES MiniMAPI ! REQUIRES MiniMAPI ! REQUIRES MiniMAPI ! Optionally Mod Config Menu Pure for configuration :) This mod can remind you: 1. Alt path doors 2. special rooms you haven't visited in the current floor (or you could just hold down MAP button) 3. sheol / cathedral path based on polaroid / negative 4. The lost (or Tainted lost) icon above blood donation machine & devil beggar (so you dont die with skill issue) 5. Time progress that shows you how far you are into the game. Also shows you how close you are towards boss rush and hush! 6. A small in game timer shown below time progress 7. White fire icon on top of curse rooms when",
-   "icon": null,
+   "icon": "https://github.com/AMAIOLAMO/isaac-reminders/blob/main/reminders_thumbnail.gif",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/AMAIOLAMO/isaac-reminders",
@@ -1360,7 +1360,7 @@
    "name": "isaac-lwater-mod",
    "author": "CoolFish456",
    "description": "a mod for isaac based on lua W.",
-   "icon": null,
+   "icon": "https://github.com/CoolFish456/isaac-lwater-mod/tree/master/resources/gfx/lwater/items/collectibles/ganshenme_item.png?raw=true",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/CoolFish456/isaac-lwater-mod",
@@ -1382,7 +1382,7 @@
    "name": "isaac_winston_mod",
    "author": "machasins",
    "description": "This mod simply plays a Winston voiceline, \"Hi There\", whenever the trinket Monkey Paw appears. Does not include Winston resprite, go here for that. Issues? Report it here or in the comments of this mod. Can be configured with Mod Config Menu to adjust when the sound plays and how loud it is. Now includes an optional 'Greetings' voiceline that can be enabled. Thanks to Lazy Mattman for inspiration and shart for the inital mod. I used Emote Binds for the creation of the demo videos. This is truly a Mattman moment.",
-   "icon": null,
+   "icon": "https://i.imgur.com/euYr5kH.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/machasins/isaac_winston_mod",
@@ -1418,7 +1418,7 @@
    "name": "isaac_keeper_mod",
    "author": "machasins",
    "description": "This mod simply plays a vine boom sound and the narrartor saying 'Balls' whenever Isaac encounters \"Keeper's Sack\". Can be configured with Mod Config Menu to adjust when the sound plays and how loud it is. Issues? Report it here or in the comments of this mod. Thanks to Lazy Mattman for inspiration and BluePipe for edited sound effects. I used Emote Binds for the creation of the demo videos. This is truly a Mattman moment.",
-   "icon": null,
+   "icon": "https://i.imgur.com/t3mr8c7.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/machasins/isaac_keeper_mod",
@@ -1436,7 +1436,7 @@
    "name": "ParikuIsaacMod",
    "author": "StrangeOne101",
    "description": "Creates a new character in The Binding of Isaac",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/StrangeOne101/ParikuIsaacMod/master/docs/thumbail2.png",
    "tags": [
     "character",
     "isaac",
@@ -1640,7 +1640,7 @@
    "name": "Binding-of-Isaac-mod",
    "author": "ThePotatoDuke",
    "description": "This mod adds random item ideas I had to the game. It includes 6+ items . The items can be encountered in devil deal, secret, boss and secret item pools. Future plans: -Better balancing as of the first version of the mod.In the first version the items are unbalanced due to my inability to find testers. - Synergies for items like Wind-Up Key and Critical hit. -Maybe more items in the future if I have some new ideas. I have not tested the mod for multiplayer yet, it is possibly buggy.If you find any bugs please let me know. That's all, hope you enjoy :) https://imgur.com/fzEzAtZ.png https://imgur.com/g55vxCG.png",
-   "icon": null,
+   "icon": "https://imgur.com/g55vxCG.png",
    "tags": [],
    "officialLatest": "Release",
    "source": "github.com/ThePotatoDuke/Binding-of-Isaac-mod",
@@ -1688,24 +1688,6 @@
    ]
   },
   {
-   "id": 658562769,
-   "popularity": 1,
-   "updated": 1778038825,
-   "name": "BoI-Taunts",
-   "author": "BOBtheman2000",
-   "description": "This mod adds pizza tower's taunts to the game! Press T/Left stick to briefly stop and do a pose! I will keep periodically adding taunts whenever I feel like doing more spritework. WARNING: DUE TO A LACK OF ITALIAN HERITAGE, THIS WILL NOT PARRY ATTACKS. PROCEED WITH CAUTION. If you wanna rebind the taunt, you can do so with the Mod Config Menu: https://steamcommunity.com/sharedfiles/filedetails/?id=2681875787 If you want me to add a taunt, lemme know in a comment and I'll try and sprite it. If you've made a custom sprite and want it added to the mod, send it to me and I'll add it in",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/BOBtheman2000/BoI-Taunts",
-   "versions": [
-    {
-     "version": "2026-05-06",
-     "url": "https://github.com/BOBtheman2000/BoI-Taunts/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 1276727219,
    "popularity": 1,
    "updated": 1786449028,
@@ -1725,6 +1707,24 @@
     {
      "version": "2026-08-11",
      "url": "https://github.com/butarca/madness-combat/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 658562769,
+   "popularity": 1,
+   "updated": 1778038825,
+   "name": "BoI-Taunts",
+   "author": "BOBtheman2000",
+   "description": "This mod adds pizza tower's taunts to the game! Press T/Left stick to briefly stop and do a pose! I will keep periodically adding taunts whenever I feel like doing more spritework. WARNING: DUE TO A LACK OF ITALIAN HERITAGE, THIS WILL NOT PARRY ATTACKS. PROCEED WITH CAUTION. If you wanna rebind the taunt, you can do so with the Mod Config Menu: https://steamcommunity.com/sharedfiles/filedetails/?id=2681875787 If you want me to add a taunt, lemme know in a comment and I'll try and sprite it. If you've made a custom sprite and want it added to the mod, send it to me and I'll add it in",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/BOBtheman2000/BoI-Taunts",
+   "versions": [
+    {
+     "version": "2026-05-06",
+     "url": "https://github.com/BOBtheman2000/BoI-Taunts/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -1843,7 +1843,7 @@
    "name": "binding-of-the-butt",
    "author": "Nyvristhrit",
    "description": "Syncs in-game events with Buttplug / Intiface devices through a local companion app. Requires the --luadebug launch option.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/Nyvristhrit/binding-of-the-butt/main/docs/panel.png",
    "tags": [],
    "officialLatest": "1.0.0",
    "source": "github.com/Nyvristhrit/binding-of-the-butt",
@@ -1869,7 +1869,7 @@
    "name": "AmpharosInTBOIMod",
    "author": "imasheep1",
    "description": "[REPENTANCE ALERT] This version of the mod is Repentance only. If you want to get the Afterbirth Plus version, you can find that here https://steamcommunity.com/sharedfiles/filedetails/?id=2103830939 Its Pokemon #181 Better known as: Ampharos The large yellow Sheep thing, first introduced in Generation 2, is now in the basement He starts with Jacob's Ladder tears At this point its probably just Isaac in a costume because if it was a trainer sending their pokemon to train, the trainer would probably be breaking some laws THE CHARACTERS ARE NOT FINISHED AND ARE SUBJECT TO CHANGE",
-   "icon": null,
+   "icon": "https://user-images.githubusercontent.com/69019423/230531386-4e283cda-de88-4ef6-bcc1-834a91e52943.jpg",
    "tags": [],
    "officialLatest": "1.8.2",
    "source": "github.com/imasheep1/AmpharosInTBOIMod",
@@ -1891,7 +1891,7 @@
    "name": "TBOI-Whats-That-Song-Mod",
    "author": "AceHanded",
    "description": "https://img.shields.io/github/stars/AceHanded/TBOI-Whats-That-Song-Mod?style=for-the-badge&logo=github&labelColor=black https://raw.githubusercontent.com/AceHanded/TBOI-Whats-That-Song-Mod/main/Images/ModShowcase.gif https://raw.githubusercontent.com/AceHanded/TBOI-Whats-That-Song-Mod/main/Images/ModShowcase2.gif https://raw.githubusercontent.com/AceHanded/TBOI-Whats-That-Song-Mod/main/Images/ModMenuShowcase.png [h1]Description[/h1] Have you ever wondered: \"Hey! What's that song that's currently playing actually called?\" Well, wonder no more, as I have the solution to your problem! This is a fairly simple mod that displays the name of the currently playing song, as it is in the official soundtrack. [h1]Associated Mods[/h1] NOTE: As of version 1.0.9, this mod automatically includes support for all soundtrack mods that function with Jukebox (Thank you ☢ Nato Potato ☢ for providing the nece",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/AceHanded/TBOI-Whats-That-Song-Mod/main/Images/ModShowcase.gif",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/AceHanded/TBOI-Whats-That-Song-Mod",
@@ -1909,7 +1909,7 @@
    "name": "Epiphany-Repentogon-Menu",
    "author": "tariq-nasheed",
    "description": "Adds \"real\" C-Side menu to the Epiphany mod for The Binding of Isaac: Repentance",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/tariq-nasheed/Epiphany-Repentogon-Menu/master/image.png?raw=true",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/tariq-nasheed/Epiphany-Repentogon-Menu",
@@ -1985,7 +1985,7 @@
    "name": "BotCoop-TheBindingofIsaac",
    "author": "Joaquin-Galle-ui",
    "description": "Mi compañero bot.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/Joaquin-Galle-ui/BotCoop-TheBindingofIsaac/main/assets/Bot-Coop-By-Jacket-Bostero.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/Joaquin-Galle-ui/BotCoop-TheBindingofIsaac",
@@ -2021,7 +2021,7 @@
    "name": "BetterTBOIOnline",
    "author": "MICHELOSCO",
    "description": "Evita i desync con i nemici di The Future che sparano anelli di proiettili: l'anello ora è identico su tutti i PC. Anche la stanza di Steven (l'ingresso per The Future nel 2-2) ora compare per tutti o per nessuno, nella stessa stanza. Serve la mod The Future. Va installata su tutti i PC della partita, con la stessa versione (BTO Sync lo controlla per te).",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/MICHELOSCO/BetterTBOIOnline/master/docs/img/mods.png",
    "tags": [],
    "officialLatest": "sync-v2.10.1",
    "source": "github.com/MICHELOSCO/BetterTBOIOnline",
@@ -2039,7 +2039,7 @@
    "name": "RandomStartItemPlus",
    "author": "Founntain",
    "description": "A The Binding of Isaac Repentance Mod, that spawns one or several Items at the start of each run.",
-   "icon": null,
+   "icon": "https://user-images.githubusercontent.com/28785685/200498704-32c94598-a138-4dd6-982f-8f6cbb4f490e.jpg",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/Founntain/RandomStartItemPlus",
@@ -2057,7 +2057,7 @@
    "name": "tboi-secrets-reveal",
    "author": "ghoulfik",
    "description": "Reveals what the floor is hiding, without touching anything else. [h1]On the map[/h1] As soon as you arrive on a floor, these are drawn on the minimap with their icons: Secret Room Super Secret Room Ultra Secret Room Any room whose layout contains a Crawlspace Same idea as the Blue Map: it shows you which wall to bomb, not the door itself. [h1]In the room[/h1] A pulsing reticle is drawn over: Hollow arrow, violet - the rock this room's crawlspace is buried under Solid arrow, violet - a crawlspace, already open Diamond, cyan - Tinted Rock Star, gold - Super Tinted Rock X, green - skull carrying an X mark, which drops a reward when broken Every colour can be changed through Mod Config Menu. Each marker is a distinct shape too, so two set to the same colour are still tellable apart. The hollow violet marker is the one worth having. It names the exact rock a crawlspace is buried under before",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/ghoulfik/tboi-secrets-reveal/main/workshop/screenshot-1-crawlspace-under-rock.jpg",
    "tags": [],
    "officialLatest": "1.5",
    "source": "github.com/ghoulfik/tboi-secrets-reveal",
@@ -2127,24 +2127,6 @@
    ]
   },
   {
-   "id": 1022515076,
-   "popularity": 0,
-   "updated": 1767103683,
-   "name": "RedBulb-Inversion",
-   "author": "Blablabla3012",
-   "description": null,
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Blablabla3012/RedBulb-Inversion",
-   "versions": [
-    {
-     "version": "2025-12-30",
-     "url": "https://github.com/Blablabla3012/RedBulb-Inversion/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 1309383956,
    "popularity": 0,
    "updated": 1789086072,
@@ -2159,6 +2141,24 @@
     {
      "version": "2026-09-11",
      "url": "https://github.com/Ewrcraft/torment/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 1022515076,
+   "popularity": 0,
+   "updated": 1767103683,
+   "name": "RedBulb-Inversion",
+   "author": "Blablabla3012",
+   "description": null,
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Blablabla3012/RedBulb-Inversion",
+   "versions": [
+    {
+     "version": "2025-12-30",
+     "url": "https://github.com/Blablabla3012/RedBulb-Inversion/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -2407,7 +2407,7 @@
    "name": "AlwaysOpenedSecretRooms",
    "author": "NeoMindStd",
    "description": "Always opened secret rooms by starting with X-ray vision.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/NeoMindStd/AlwaysOpenedSecretRooms/main/thumbnail.jpg",
    "tags": [],
    "officialLatest": "1.5",
    "source": "github.com/NeoMindStd/AlwaysOpenedSecretRooms",
@@ -2839,24 +2839,6 @@
    ]
   },
   {
-   "id": 856378779,
-   "popularity": 0,
-   "updated": 1728814096,
-   "name": "Curse-of-the-champion-belt",
-   "author": "Mateusz231",
-   "description": "Mod for The Binding Of Isaac Repentance",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Mateusz231/Curse-of-the-champion-belt",
-   "versions": [
-    {
-     "version": "2024-10-13",
-     "url": "https://github.com/Mateusz231/Curse-of-the-champion-belt/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 773505499,
    "popularity": 0,
    "updated": 1710708858,
@@ -2871,6 +2853,24 @@
     {
      "version": "2024-03-17",
      "url": "https://github.com/Mateusz231/InstantRestart/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 856378779,
+   "popularity": 0,
+   "updated": 1728814096,
+   "name": "Curse-of-the-champion-belt",
+   "author": "Mateusz231",
+   "description": "Mod for The Binding Of Isaac Repentance",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Mateusz231/Curse-of-the-champion-belt",
+   "versions": [
+    {
+     "version": "2024-10-13",
+     "url": "https://github.com/Mateusz231/Curse-of-the-champion-belt/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -2979,7 +2979,7 @@
    "name": "isaac_phantom_mod",
    "author": "machasins",
    "description": "This mod simply plays a part of the Danny Phantom Theme, \"He's a Phantom\", whenever Isaac becomes a ghost in Downpour/Dross. Issues? Report it here or in the comments of this mod. Can be configured with Mod Config Menu to adjust how loud the sound is. Thanks to Lazy Mattman for inspiration. I used Emote Binds for the creation of the demo videos. This is truly a Mattman moment.",
-   "icon": null,
+   "icon": "https://i.imgur.com/mz7QXQ3.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/machasins/isaac_phantom_mod",
@@ -3087,7 +3087,7 @@
    "name": "The-Binding-Of-Isaac-His-Treachery",
    "author": "GoofyBallBaldi",
    "description": null,
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/GoofyBallBaldi/The-Binding-Of-Isaac-His-Treachery/main/HIS_TREACHERY_LOGO_PLACEHOLDER.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/GoofyBallBaldi/The-Binding-Of-Isaac-His-Treachery",
@@ -3119,7 +3119,7 @@
   {
    "id": 1278586713,
    "popularity": 0,
-   "updated": 1795773604,
+   "updated": 1795802452,
    "name": "poke-isaac-mod",
    "author": "pixel-00",
    "description": null,
@@ -3197,24 +3197,6 @@
    ]
   },
   {
-   "id": 820225764,
-   "popularity": 0,
-   "updated": 1793511976,
-   "name": "scarredwombplus",
-   "author": "GabeHasWon",
-   "description": "Adds [9] new enemies to the Scarred Womb, with 1010 new rooms for them to occupy. Plus, 10 rooms for the Chest using the new content as well! The enemies are as follows: Scarred Baby, a Baby variant that spits bursting, lobbing tears Parabrute, a beefy Parabite that loves creep Cyst, an annoying red lump that goes everywhere and explodes when killed Pus-y, a little idiot baby that summons Pustules to annoy you Pustules, they explode into a shower of tears when you get close Overboiled, massive, scarred boils which shoot a line of tears repeatedly Seespot, a grid entity that, after being steppped on, will boil over with blood when stepped on - flying players ignore it Clot Worm, a stationary enemy that rapidly fires projectiles, and when killed, throws bursts of blood around until everything else is dead Exposed Nerves, a grid entity that behaves like Seespots, but only for flying players",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/GabeHasWon/scarredwombplus",
-   "versions": [
-    {
-     "version": "2026-11-01",
-     "url": "https://github.com/GabeHasWon/scarredwombplus/archive/refs/heads/master.zip"
-    }
-   ]
-  },
-  {
    "id": 1361343657,
    "popularity": 0,
    "updated": 1789315092,
@@ -3229,6 +3211,24 @@
     {
      "version": "2026-09-13",
      "url": "https://github.com/404-Wont-Fix/GhostStep/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 820225764,
+   "popularity": 0,
+   "updated": 1793511976,
+   "name": "scarredwombplus",
+   "author": "GabeHasWon",
+   "description": "Adds [9] new enemies to the Scarred Womb, with 1010 new rooms for them to occupy. Plus, 10 rooms for the Chest using the new content as well! The enemies are as follows: Scarred Baby, a Baby variant that spits bursting, lobbing tears Parabrute, a beefy Parabite that loves creep Cyst, an annoying red lump that goes everywhere and explodes when killed Pus-y, a little idiot baby that summons Pustules to annoy you Pustules, they explode into a shower of tears when you get close Overboiled, massive, scarred boils which shoot a line of tears repeatedly Seespot, a grid entity that, after being steppped on, will boil over with blood when stepped on - flying players ignore it Clot Worm, a stationary enemy that rapidly fires projectiles, and when killed, throws bursts of blood around until everything else is dead Exposed Nerves, a grid entity that behaves like Seespots, but only for flying players",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/GabeHasWon/scarredwombplus",
+   "versions": [
+    {
+     "version": "2026-11-01",
+     "url": "https://github.com/GabeHasWon/scarredwombplus/archive/refs/heads/master.zip"
     }
    ]
   },
@@ -3311,7 +3311,7 @@
    "name": "isaac-cat_tarot",
    "author": "TheSquid15",
    "description": "Adds cat tarot cards",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/TheSquid15/isaac-cat_tarot/main/resources/gfx/ui/giantbook/giantbook_005_tarot.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/TheSquid15/isaac-cat_tarot",
@@ -3395,13 +3395,31 @@
    ]
   },
   {
+   "id": 575935868,
+   "popularity": 0,
+   "updated": 1676142732,
+   "name": "MadokaTBOI",
+   "author": "Dangan2020",
+   "description": "[January 9th - Notes: FINALLY fixed the mod. I dunno what came over me to just give it up but it should be functional again now. I still need some ideas to make the character more unique, any ideas are welcome to send in the suggestion thread!] Never seen anyone else doing a Madoka Magica mod (aside from the soundtrack mod by PixelDemise, only has up to AB+, no repentance music) so I thought I'd try to make one. This is my first time ever making mods for TBOI, any feedback is welcome. (I might make this open source for everyone's contribution) Madoka's stats: 2 Red Hearts 0.80 Speed 3.00 Tears 2.00 Damage 6.60 Range 1.00 Shot Speed 1 Luck Starts with Cupid's Arrow, Epiphora (temporary starting items, might change them in a future update) & Hierophant Tarot Card. Tainted Madoka's stats (might revamp the look to have a more edgier/darker look in a future update): 4 Hearts 1.00 Speed 2.31 T",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Dangan2020/MadokaTBOI",
+   "versions": [
+    {
+     "version": "2023-02-11",
+     "url": "https://github.com/Dangan2020/MadokaTBOI/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
    "id": 1372143477,
    "popularity": 0,
    "updated": 1789887460,
    "name": "champion_overhaul",
    "author": "Drarkyel",
    "description": "[h1]Requires Repentogon+![/h1] Champion Overhaul completely redesigns how enemy Champions work in Repentance+. The goal is to give Champions more personality, variety, and mechanical depth while expanding the system beyond the vanilla game. [h2] ⚙️ System Redesign [/h2] All enemy Champions have been redesigned, including their: Mechanics Drops Rarities Spawn conditions Attack patterns Vanilla Champions have been reworked to give their effects more identity, while also doubling champion variety. Champions retain the same size as their normal counterparts, but are significantly more dangerous: 2× base health 1 full heart of contact damage 2 full hearts of contact damage in Chapter 4+ Damage changes also apply to Boss Champions. [h2] 🎨 Color Consistency [/h2] Champion colors have been improved using the Repentance shader system . Instead of simply tinting the entity's sprite, Champion color",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/Drarkyel/champion_overhaul/main/docs/images/thumbnail.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/Drarkyel/champion_overhaul",
@@ -3449,31 +3467,13 @@
    ]
   },
   {
-   "id": 575935868,
-   "popularity": 0,
-   "updated": 1676142732,
-   "name": "MadokaTBOI",
-   "author": "Dangan2020",
-   "description": "[January 9th - Notes: FINALLY fixed the mod. I dunno what came over me to just give it up but it should be functional again now. I still need some ideas to make the character more unique, any ideas are welcome to send in the suggestion thread!] Never seen anyone else doing a Madoka Magica mod (aside from the soundtrack mod by PixelDemise, only has up to AB+, no repentance music) so I thought I'd try to make one. This is my first time ever making mods for TBOI, any feedback is welcome. (I might make this open source for everyone's contribution) Madoka's stats: 2 Red Hearts 0.80 Speed 3.00 Tears 2.00 Damage 6.60 Range 1.00 Shot Speed 1 Luck Starts with Cupid's Arrow, Epiphora (temporary starting items, might change them in a future update) & Hierophant Tarot Card. Tainted Madoka's stats (might revamp the look to have a more edgier/darker look in a future update): 4 Hearts 1.00 Speed 2.31 T",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Dangan2020/MadokaTBOI",
-   "versions": [
-    {
-     "version": "2023-02-11",
-     "url": "https://github.com/Dangan2020/MadokaTBOI/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 647444567,
    "popularity": 0,
    "updated": 1685480974,
    "name": "HertaCubeBaby",
    "author": "JustGritt",
    "description": "Simple visual replacer mod for The Binding of Isaac",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/JustGritt/TBOI-HertaCubeBaby/main/github/assets/herta.png",
    "tags": [],
    "officialLatest": "Initial",
    "source": "github.com/JustGritt/HertaCubeBaby",
@@ -3517,6 +3517,24 @@
     {
      "version": "2021-07-17",
      "url": "https://github.com/Anubioz/red-key-run/archive/refs/heads/master.zip"
+    }
+   ]
+  },
+  {
+   "id": 1392849000,
+   "popularity": 0,
+   "updated": 1792963137,
+   "name": "green-lantern-isaac-mod",
+   "author": "danicaju",
+   "description": "In brightest day, in blackest night... Hal Jordan, the Green Lantern of Sector 2814, enters the Binding of Isaac! Includes Hal Jordan, Tainted Hal (Parallax), 6 new items, and 1 new trinket.",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/danicaju/green-lantern-isaac-mod",
+   "versions": [
+    {
+     "version": "2026-10-25",
+     "url": "https://github.com/danicaju/green-lantern-isaac-mod/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -3571,24 +3589,6 @@
     {
      "version": "2026-09-16",
      "url": "https://github.com/EllieDoesStuff/classy-bosses/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
-   "id": 1392849000,
-   "popularity": 0,
-   "updated": 1792963137,
-   "name": "green-lantern-isaac-mod",
-   "author": "danicaju",
-   "description": "In brightest day, in blackest night... Hal Jordan, the Green Lantern of Sector 2814, enters the Binding of Isaac! Includes Hal Jordan, Tainted Hal (Parallax), 6 new items, and 1 new trinket.",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/danicaju/green-lantern-isaac-mod",
-   "versions": [
-    {
-     "version": "2026-10-25",
-     "url": "https://github.com/danicaju/green-lantern-isaac-mod/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -3707,7 +3707,7 @@
    "name": "isaac-switch-mods",
    "author": "imivani",
    "description": "Popular Binding of Isaac: Repentance PC mods ported natively to Nintendo Switch (1.7.9b, Atmosphère), with an in-game mod menu",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/imivani/isaac-switch-mods/main/docs/images/items.png",
    "tags": [],
    "officialLatest": "1.0.0",
    "source": "github.com/imivani/isaac-switch-mods",
@@ -3865,24 +3865,6 @@
    ]
   },
   {
-   "id": 1031682878,
-   "popularity": 0,
-   "updated": 1755077073,
-   "name": "WoodenSword",
-   "author": "Reixen",
-   "description": "An offensive item mod for The Binding of Isaac: Repentance",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/Reixen/WoodenSword",
-   "versions": [
-    {
-     "version": "2025-08-13",
-     "url": "https://github.com/Reixen/WoodenSword/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 742601965,
    "popularity": 0,
    "updated": 1708103801,
@@ -3901,13 +3883,31 @@
    ]
   },
   {
+   "id": 1031682878,
+   "popularity": 0,
+   "updated": 1755077073,
+   "name": "WoodenSword",
+   "author": "Reixen",
+   "description": "An offensive item mod for The Binding of Isaac: Repentance",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/Reixen/WoodenSword",
+   "versions": [
+    {
+     "version": "2025-08-13",
+     "url": "https://github.com/Reixen/WoodenSword/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
    "id": 370405019,
    "popularity": 0,
    "updated": 1663096769,
    "name": "isaac-overcome-curses",
    "author": "TheGor1lla",
    "description": "[h1] Overcome Curses [/h1] Simple mod that deactives curses (minus Labyrinth, because you know...) once the floor boss is killed. [h2] Now configurable! [/h2] Overcome Curses now supports !! Mod Config Menu Pure If you are a fan of using the debug menu, you can also configure the mod that way, simply check it out by typing: overcome help [h2] If you have Feedback or feature requests, feel free to contact me! [/h2]",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/TheGor1lla/isaac-overcome-curses/main/OvercomeCurses.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/TheGor1lla/isaac-overcome-curses",
@@ -3977,24 +3977,6 @@
    ]
   },
   {
-   "id": 304688812,
-   "popularity": 0,
-   "updated": 1602871249,
-   "name": "The_Ancient",
-   "author": "MtKuma",
-   "description": "Here is my first mod, that i use to learn. i maked a custom skin inspired from the old keeper, mod image and video will apprear soon the character start with random stat choose in a \"poolpack\" and every 5 rooms without taking any damage he will spawn an item from the pack pool (there is only 4 item in the pool) he start with 2 red hearth, the cracked dice and the cracked crown trinked there are some bugs, if you see one please tell me anyway i'am still working on it",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/MtKuma/The_Ancient",
-   "versions": [
-    {
-     "version": "2020-10-16",
-     "url": "https://github.com/MtKuma/The_Ancient/archive/refs/heads/main.zip"
-    }
-   ]
-  },
-  {
    "id": 857002781,
    "popularity": 0,
    "updated": 1762076994,
@@ -4009,6 +3991,24 @@
     {
      "version": "2025-11-02",
      "url": "https://github.com/Adamo2499/reversed-emperor-buff/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
+   "id": 304688812,
+   "popularity": 0,
+   "updated": 1602871249,
+   "name": "The_Ancient",
+   "author": "MtKuma",
+   "description": "Here is my first mod, that i use to learn. i maked a custom skin inspired from the old keeper, mod image and video will apprear soon the character start with random stat choose in a \"poolpack\" and every 5 rooms without taking any damage he will spawn an item from the pack pool (there is only 4 item in the pool) he start with 2 red hearth, the cracked dice and the cracked crown trinked there are some bugs, if you see one please tell me anyway i'am still working on it",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/MtKuma/The_Ancient",
+   "versions": [
+    {
+     "version": "2020-10-16",
+     "url": "https://github.com/MtKuma/The_Ancient/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -4146,24 +4146,6 @@
    ]
   },
   {
-   "id": 1311377111,
-   "popularity": 0,
-   "updated": 1794357249,
-   "name": "Custom-Soundtrack-Menu-Mod-Template",
-   "author": "Absolute-Lambda",
-   "description": "Soundtrack Description",
-   "icon": null,
-   "tags": [],
-   "officialLatest": "0.1.0-jbox",
-   "source": "github.com/Absolute-Lambda/Custom-Soundtrack-Menu-Mod-Template",
-   "versions": [
-    {
-     "version": "0.1.0-jbox",
-     "url": "https://github.com/Absolute-Lambda/Custom-Soundtrack-Menu-Mod-Template/archive/refs/tags/v0.1.0-jbox.zip"
-    }
-   ]
-  },
-  {
    "id": 442245202,
    "popularity": 0,
    "updated": 1640802112,
@@ -4184,6 +4166,24 @@
     {
      "version": "2021-12-29",
      "url": "https://github.com/MarcSerret51/RainbowDice/archive/refs/heads/master.zip"
+    }
+   ]
+  },
+  {
+   "id": 1311377111,
+   "popularity": 0,
+   "updated": 1794357249,
+   "name": "Custom-Soundtrack-Menu-Mod-Template",
+   "author": "Absolute-Lambda",
+   "description": "Soundtrack Description",
+   "icon": null,
+   "tags": [],
+   "officialLatest": "0.1.0-jbox",
+   "source": "github.com/Absolute-Lambda/Custom-Soundtrack-Menu-Mod-Template",
+   "versions": [
+    {
+     "version": "0.1.0-jbox",
+     "url": "https://github.com/Absolute-Lambda/Custom-Soundtrack-Menu-Mod-Template/archive/refs/tags/v0.1.0-jbox.zip"
     }
    ]
   },
@@ -4224,6 +4224,24 @@
    ]
   },
   {
+   "id": 711224607,
+   "popularity": 0,
+   "updated": 1753680379,
+   "name": "Korean-Localizing-Plus",
+   "author": "sawalk",
+   "description": "[h2] !!!리펜턴스+와 호환되지 않습니다. 본 모드는 리펜턴스 전용입니다!!! [/h2] [h2] !!!리펜턴스+ 한글패치는 여기 로!!! [/h2] https://i.imgur.com/qNIBKvT.png [h2] 소개 [/h2] 한국어 번역+ 모드는 리펜턴스의 오역과 아쉬운 번역을 고치고, 누락된 자막, 새로운 더빙, 개선된 폰트 등 더 높은 품질의 한국어 번역을 제공하는 모드입니다. 다른 모드와의 충돌을 최대한 적게하는 유일한 번역 개선 모드입니다! 꼭 설정에서 언어를 한국어로 설정한 뒤에 모드를 구독하세요! 모든 언어 환경에서 아래와 같이 게임이 패치되며, 한국어 외 언어로 플레이한다면 이 모드를 끄고 플레이하는 것을 극히 권장합니다. [h2] 기능 [/h2] 오프닝, 에필로그, 엔딩 21, 최종 엔딩 한국어 더빙 추가 ¹ 아빠의 쪽지의 \"Ascent\" 시퀀스 한국어 더빙 & 자막 추가 ² 메인 메뉴 한국어 로고 적용 ² 컷신 영어 식자 자막 추가 여러 UI 그래픽의 디테일 보강 폰트 교체 ³ https://i.imgur.com/o29Li2s.png 대대적인 번역 보강 ⁴ ⁵ ⁶ ⁷ Respect to 윤호 and Chips . 한국어 더빙 모드 를 구독 해제하여 영어 음성으로 들으실 수 있습니다. 자세한 내용은 한국어 더빙 모드 페이지를 참고하세요. Original by Blackcreamtea. 자막의 경우 '(따옴표) 키를 통해 자막을 끄거나 켤 수 있습니다. 한국어 폰트 교체 모드 를 구독 해제하여 기존 폰트로 이용할 수 있습니다. 아이템 이름 변경 기능은 Eztools(by ddeeddii) & Dead sea scrolls indicator(코드 일부 발췌, by siraxtas) 을 사용하였습니다. 아이템 이름은 아이템 설명모드 에서도 이름이 변경됩니다. 통계의",
+   "icon": null,
+   "tags": [],
+   "officialLatest": null,
+   "source": "github.com/sawalk/Korean-Localizing-Plus",
+   "versions": [
+    {
+     "version": "2025-07-28",
+     "url": "https://github.com/sawalk/Korean-Localizing-Plus/archive/refs/heads/main.zip"
+    }
+   ]
+  },
+  {
    "id": 782312150,
    "popularity": 0,
    "updated": 1713855341,
@@ -4241,24 +4259,6 @@
     {
      "version": "1.1.0",
      "url": "https://github.com/freddie316/Bag-of-Manufacturing/releases/download/v1.1.0/Bag.of.Manufacturing.zip"
-    }
-   ]
-  },
-  {
-   "id": 711224607,
-   "popularity": 0,
-   "updated": 1753680379,
-   "name": "Korean-Localizing-Plus",
-   "author": "sawalk",
-   "description": "[h2] !!!리펜턴스+와 호환되지 않습니다. 본 모드는 리펜턴스 전용입니다!!! [/h2] [h2] !!!리펜턴스+ 한글패치는 여기 로!!! [/h2] https://i.imgur.com/qNIBKvT.png [h2] 소개 [/h2] 한국어 번역+ 모드는 리펜턴스의 오역과 아쉬운 번역을 고치고, 누락된 자막, 새로운 더빙, 개선된 폰트 등 더 높은 품질의 한국어 번역을 제공하는 모드입니다. 다른 모드와의 충돌을 최대한 적게하는 유일한 번역 개선 모드입니다! 꼭 설정에서 언어를 한국어로 설정한 뒤에 모드를 구독하세요! 모든 언어 환경에서 아래와 같이 게임이 패치되며, 한국어 외 언어로 플레이한다면 이 모드를 끄고 플레이하는 것을 극히 권장합니다. [h2] 기능 [/h2] 오프닝, 에필로그, 엔딩 21, 최종 엔딩 한국어 더빙 추가 ¹ 아빠의 쪽지의 \"Ascent\" 시퀀스 한국어 더빙 & 자막 추가 ² 메인 메뉴 한국어 로고 적용 ² 컷신 영어 식자 자막 추가 여러 UI 그래픽의 디테일 보강 폰트 교체 ³ https://i.imgur.com/o29Li2s.png 대대적인 번역 보강 ⁴ ⁵ ⁶ ⁷ Respect to 윤호 and Chips . 한국어 더빙 모드 를 구독 해제하여 영어 음성으로 들으실 수 있습니다. 자세한 내용은 한국어 더빙 모드 페이지를 참고하세요. Original by Blackcreamtea. 자막의 경우 '(따옴표) 키를 통해 자막을 끄거나 켤 수 있습니다. 한국어 폰트 교체 모드 를 구독 해제하여 기존 폰트로 이용할 수 있습니다. 아이템 이름 변경 기능은 Eztools(by ddeeddii) & Dead sea scrolls indicator(코드 일부 발췌, by siraxtas) 을 사용하였습니다. 아이템 이름은 아이템 설명모드 에서도 이름이 변경됩니다. 통계의",
-   "icon": null,
-   "tags": [],
-   "officialLatest": null,
-   "source": "github.com/sawalk/Korean-Localizing-Plus",
-   "versions": [
-    {
-     "version": "2025-07-28",
-     "url": "https://github.com/sawalk/Korean-Localizing-Plus/archive/refs/heads/main.zip"
     }
    ]
   },
@@ -4329,7 +4329,7 @@
    "name": "infinite-crafting-bag",
    "author": "Luizoka",
    "description": "Store unlimited crafting ingredients with Tainted Cain and decide what to craft whenever you want! Browse available recipes, search for items, filter by quality and unlock status, and select your desired item before crafting. **Requirements:** The Binding of Isaac: Repentance+ and REPENTOGON.",
-   "icon": null,
+   "icon": "https://raw.githubusercontent.com/Luizoka/infinite-crafting-bag/main/docs/screenshots/interface.png",
    "tags": [],
    "officialLatest": null,
    "source": "github.com/Luizoka/infinite-crafting-bag",
@@ -5082,7 +5082,7 @@
   },
   {
    "id": 200676559,
-   "popularity": 21,
+   "popularity": 22,
    "updated": 1778534595,
    "name": "Babyl'",
    "author": "Niko_the_flowerman",
@@ -5100,7 +5100,7 @@
   },
   {
    "id": 200653869,
-   "popularity": 13,
+   "popularity": 14,
    "updated": 1771285212,
    "name": "Susie's Axe Over Donkey Jaw Bone",
    "author": "Rolinski Rolin",
@@ -5226,7 +5226,7 @@
   },
   {
    "id": 200453531,
-   "popularity": 35,
+   "popularity": 36,
    "updated": 1688249387,
    "name": "GUY WITH MOUTH FULL OF COINS AS HEAD OF THE KEEPER",
    "author": "Dermy",
